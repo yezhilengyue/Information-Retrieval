@@ -16,3 +16,6 @@ This is a graduate-level course covering the advanced topics in the growing fiel
 * [MP2] Word Embeddings
 * [MP3] PLSA and the EM Algorithm
 * [MP4] Hidden Markov Models 
+
+## Project
+AdaRank Implementation
